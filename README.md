@@ -16,7 +16,7 @@ This project cleans and explores the AB_NYC_2019 Airbnb dataset for New York Cit
 ## How to Run the Project
 1. Open a terminal and change into the project folder:
    ```bash
-   cd "c:/Users/bmuruges/OneDrive - DPDHL/Documents/Study/AgentQA/crewai"
+   cd "c:/Users/Documents/Study/AgentQA/crewai"
    ```
 2. Install the required Python packages using the provided requirements file:
    ```bash
